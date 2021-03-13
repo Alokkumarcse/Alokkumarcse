@@ -5,6 +5,6 @@
 - 📫 How to reach me ...alokk13799@gmail.com
 
 <!---
-Alokkumarcse/Alokkumarcse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alokkumarcse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
