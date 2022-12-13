@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alok kumar
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning web development
+- 👀 I'm a Front-end Developer
+- 🌱 I’m interested in problem solving
 - 💞️ I’m looking to collaborate on web realted projects
 - 📫 How to reach me alokk13799@gmail.com
 
