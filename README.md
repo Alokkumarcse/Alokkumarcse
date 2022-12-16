@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alok kumar
+- 👋 Hi, My name is Alok kumar
 - 👀 I'm a *Front-end Developer*
-- 🌱 I’m interested in problem solving
+- 🌱 I’m interested in problem solving, how things work.
 - 💞️ I’m looking to collaborate on web realted projects
 - 📫 How to reach me alokk13799@gmail.com
 
