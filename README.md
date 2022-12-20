@@ -1,6 +1,6 @@
 # Welcome! Happy to see you here 🤝
 
-👋 Hi, I'm **Alok kumar** , a **Frontend Web Developer** from **India!**
+👋 Hi, My name is **Alok kumar**, I'm a **Frontend Web Developer** from **India!**
  - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
  - 💻 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS. 
  - 🌱 I’m currently learning MERN Stack & building Projects in public.
