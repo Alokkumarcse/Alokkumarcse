@@ -10,12 +10,13 @@
 ### 📩 connect with me
  
 <div id="badges">
+ <a href="https://mail.google.com/mail/u/0/">
+    <img src="https://img.shields.io/badge/alokk13799@gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/alokkumar13/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  
   <a href="https://github.com/Alokkumarcse">
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
