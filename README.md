@@ -1,4 +1,4 @@
-### Hello and Welcome 👋, I'm Alok Kumar
+## Hello and Welcome 👋, I'm Alok Kumar
 
  ### I'm a Full-Stack JavaScript Developer
  - 📚 I'm constantly learning new skills and striving for progress
