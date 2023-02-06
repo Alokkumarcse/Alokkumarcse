@@ -1,11 +1,11 @@
-# Welcome! Happy to see you here 🤝
+### Hello and Welcome 👋, I'm Alok Kumar
 
-👋 Hi, My name is **Alok kumar**, I'm a **Frontend Web Developer** from **India!**
- - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
- - 💻 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS. 
- - 🌱 I’m currently learning MERN Stack & building Projects in public.
- - 👯 I’m looking to collaborate with people with Amazing Ideas.
- - ⚡ Meanwhile, I love connecting & socializing with new people.
+ ### I'm a Full-Stack JavaScript Developer
+ - 📚 I'm constantly learning new skills and striving for progress
+ - 💻 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS
+ - 🌱 I’m currently learning MERN Stack & building Projects in public
+ - 👯 I’m looking to collaborate with people with Amazing Ideas
+ - ⚡ Meanwhile, I've fond of read books, Play Badminton and Wandering
 
 ## 📞 connect with me
 
