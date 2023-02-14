@@ -7,7 +7,7 @@
  - 👯 I’m looking to collaborate with people with Amazing Ideas
  - ⚡ Meanwhile, I love to read books, Play Badminton and Wandering
 
-### 📩 connect with me
+## 📩 connect with me
  
 <div id="badges">
  <a href="https://mail.google.com/mail/u/0/">
@@ -22,9 +22,9 @@
   </a>
 </div>
 
-### 💻: Programming Languages:
+## 💻: Programming Languages:
 
-#### `Frontend Skills`
+### `Frontend Skills`
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
@@ -39,13 +39,13 @@
 
  </div>
  
- #### `Backend Skills`
+ ### `Backend Skills`
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="80" height="80"   />&nbsp;
  </div>
  
- #### `Database skills`
+ ### `Database skills`
  
  <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="50" height="50"/>&nbsp;
@@ -54,7 +54,7 @@
  </div>
  
  
-  #### `Tools`
+  ### `Tools`
   
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
