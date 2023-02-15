@@ -42,9 +42,9 @@
  ### `Backend Skills`
  <div>
   <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/nodejs.png" title="NodeJS" alt="NodeJS" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/express.png" title="expressJs" alt="expressJs" width="60" height="35"   />&nbsp;
+  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/express.png" title="expressJs" alt="expressJs" width="50" height="30"   />&nbsp;
   <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/jwt.svg" title="JWT" alt="JWT" width="60" height="35"/>&nbsp;
-  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/socketio.png" title="socket.io" alt="socket.io" width="35" height="35" />&nbsp;
+  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/socketio.png" title="socket.io" alt="socket.io" width="30" height="30" />&nbsp;
  
  </div>
  
