@@ -2,10 +2,9 @@
 
  ### I'm a Full-Stack JavaScript Developer
  - 📚 I'm constantly learning new skills and striving for progress
- - 💻 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS
- - 🌱 I’m currently learning MERN Stack & building Projects in public
+ - 💻 I’m currently working with MERN Stack 
  - 👯 I’m looking to collaborate with people with Amazing Ideas
- - ⚡ Meanwhile, I love to read books, Play Badminton and Wandering
+ - ⚡ Meanwhile, I love to read books, play badminton
 
 ## 📩 connect with me
  
@@ -40,28 +39,19 @@
  
  ### `Backend Skills`
  <div>
-  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/nodejs.png" title="NodeJS" alt="NodeJS" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/express.png" title="expressJs" alt="expressJs" width="50" height="30"   />&nbsp;
-  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/jwt.svg" title="JWT" alt="JWT" width="60" height="35"/>&nbsp;
-  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/assets/socketio.png" title="socket.io" alt="socket.io" width="30" height="30" />&nbsp;
- 
- </div>
- 
- ### `Database skills`
- 
- <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/thin-white-stripe.jpg" title="NodeJS" alt="NodeJS" height="35" />&nbsp;
+  <img src="https://github.com/Alokkumarcse/Alokkumarcse/blob/main/express.png" title="expressJs" alt="expressJs" height="35" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="40"/>&nbsp;
  </div>
  
  
   ### `Tools`
   
   <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="30" height="30"/>&nbsp;
  
  </div>
