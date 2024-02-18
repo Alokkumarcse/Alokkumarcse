@@ -1,10 +1,10 @@
 ## Hello and Welcome 👋, I'm Alok Kumar
 
- ### I'm a Full-Stack JavaScript Developer
+ ### I'm a Fullstack JavaScript Developer
  - 📚 I'm constantly learning new skills and striving for progress
- - 💻 I’m currently working with MERN Stack 
+ - 💻 I’m currently working on MERN stack and .Net Projects
  - 👯 I’m looking to collaborate with people with Amazing Ideas
- - ⚡ Meanwhile, I love to read books, play badminton
+ - ⚡ Meanwhile, I love to read books, play sports and explore new things
 
 ## 📩 connect with me
  
