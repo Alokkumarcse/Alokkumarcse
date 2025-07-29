@@ -2,7 +2,7 @@
 
  ### I'm a Fullstack JavaScript Developer
  - 📚 I'm constantly learning new skills and striving for progress
- - 💻 I’m currently working on MERN stack and .Net Projects
+ - 💻 I’m currently working on MERN stack and C#/.Net Projects
  - 👯 I’m looking to collaborate with people with Amazing Ideas
  - ⚡ Meanwhile, I love to read books, play sports and explore new things
 
@@ -10,7 +10,7 @@
  
 <div id="badges">
  <a href="https://mail.google.com/mail/u/0/">
-    <img src="https://img.shields.io/badge/alokk13799@gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/alok.fs.dev21@gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/alokkumar13/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,7 +33,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
  </div>
  
@@ -50,8 +49,6 @@
   
   <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="figma" width="30" height="30"/>&nbsp;
  
  </div>
